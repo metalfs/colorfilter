@@ -1,0 +1,8 @@
+image.json
+image_compiled.json
+colorfilter/*.log
+colorfilter/apples.out.bmp
+colorfilter/*.tcl
+colorfilter/hls_cflags.*
+colorfilter/hls_*/
+colorfilter/hls_impl_ip

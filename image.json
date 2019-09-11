@@ -1,7 +1,1 @@
-{
-    "stream_bytes": 8,
-    "target": "SNAP_WEBPACK_SIM",
-    "operators": {
-        "colorfilter": { "source": "." }
-    }
-}
+{ "target": "SNAP_WEBPACK_SIM", "stream_bytes": 8, "operators": { "colorfilter": { "source": "./colorfilter" } } }

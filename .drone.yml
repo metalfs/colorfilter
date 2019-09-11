@@ -6,9 +6,10 @@ steps:
 - name: testbench
   image: metalfs/operator-base:webpack
   commands:
-    - make test
+    - cd colorfilter
+    - /bin/bash -c "make test"
 
-- name: build-simulation-model
+- name: simulation-model
   image: metalfs/operator-base:webpack
   commands:
     - make model
