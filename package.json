@@ -1,16 +1,16 @@
 {
-  "name": "@rs22/colorfilter",
+  "name": "@metalfs/colorfilter",
   "version": "0.0.1",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rs22/colorfilter.git"
+    "url": "git+https://github.com/metalfs/colorfilter.git"
   },
   "keywords": [],
   "author": "Robert Schmid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rs22/colorfilter/issues"
+    "url": "https://github.com/metalfs/colorfilter/issues"
   },
-  "homepage": "https://github.com/rs22/colorfilter#readme"
+  "homepage": "https://github.com/metalfs/colorfilter#readme"
 }
