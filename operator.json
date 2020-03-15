@@ -1,5 +1,8 @@
 {
-  "main": "hls_operator_colorfilter",
+  "main": "colorfilter",
   "description": "Convert bitmap to grayscale",
-  "options": {}
+  "options": {},
+  "devImage": {
+    "streamBytes": 8
+  }
 }
